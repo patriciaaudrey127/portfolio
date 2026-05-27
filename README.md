@@ -1,4 +1,4 @@
 ## Tools
-docs/assets/toolsui.png
+docs/toolsui.png
 ## Projects
 
