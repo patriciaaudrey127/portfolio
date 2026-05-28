@@ -7,16 +7,19 @@
 * Website Development
 * Project Management
 
-## Projects
+## Projects 
 ![Hgai](docs/hgai-web.png)
+**Grand Antares - 2025**
 >[!NOTE]
 > Customers must quickly find room types, pricing, and booking options. Poor structure leads to drop-offs. This project addresses that gap by translating personal branding into a cohesive digital experience by using CMS platforms. Maximizing the hotel plugin for room availability. The visual direction builds perceived value through typography, spacing, and refined color palettes, positioning the brand as high-quality and customer-oriented.
 
 ![Kalimantung](docs/kalimantung-web.png)
+**Kalimantung Island - 2025**
 >[!NOTE]
 >Kalimantung island storytelling must guide users from curiosity to travel intent. This project uses frameworks such as WordPress allow efficient content management. Shop section is well-built using WooCommerce. CSS frameworks or responsive design techniques ensure compatibility across devices as well as updated travel information and packages.
 
 ![bestgourmet](docs/bestgourmet-web.png)
+**My Best Gourmet Kitchen - 2025**
 >[!NOTE]
 >The catering website has flexible menus and order details. Content editing tools ensure readability, consistency, alignment with user intent. For catering, menus, pricing, and ordering must be frictionless to convert interest into orders.
 
