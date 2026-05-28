@@ -18,4 +18,4 @@
 
 ![bestgourmet](docs/bestgourmet-web.png)
 >[!NOTE]
-> The catering website has flexible menus and order details. Content editing tools ensure readability, consistency, alignment with user intent. For catering, menus, pricing, and ordering must be frictionless to convert interest into orders. \
+>The catering website has flexible menus and order details. Content editing tools ensure readability, consistency, alignment with user intent. For catering, menus, pricing, and ordering must be frictionless to convert interest into orders. \
