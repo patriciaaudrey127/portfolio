@@ -15,11 +15,9 @@ Customers must quickly find room types, pricing, and booking options. Poor struc
 
 ## Kalimantung Island - 2025
 ![Kalimantung](docs/kalimantung-web.png)
->[!NOTE]
 Kalimantung island storytelling must guide users from curiosity to travel intent. This project uses frameworks such as WordPress allow efficient content management. Shop section is well-built using WooCommerce. CSS frameworks or responsive design techniques ensure compatibility across devices as well as updated travel information and packages.
 
 ## My Best Gourmet Kitchen - 2025
 ![bestgourmet](docs/bestgourmet-web.png)
->[!NOTE]
->The catering website has flexible menus and order details. Content editing tools ensure readability, consistency, alignment with user intent. For catering, menus, pricing, and ordering must be frictionless to convert interest into orders.
+The catering website has flexible menus and order details. Content editing tools ensure readability, consistency, alignment with user intent. For catering, menus, pricing, and ordering must be frictionless to convert interest into orders.
 
